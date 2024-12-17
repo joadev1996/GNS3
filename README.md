@@ -29,3 +29,5 @@ Haremos los mismos pasos que en el ejercicio anterior hasta llegar a la configur
 
 Finalmente, utilizaremos ip route para que nuestros routers conozcan la otra red y las guarde en su tabla de enrutamiento.
 De este modo, el VPC 4 puede hacer ping a cualquier VPC dentro del contexto de la red.
+![image](https://github.com/user-attachments/assets/97076af8-d9ef-41d9-a6d2-b0e0ab347b0a)
+
