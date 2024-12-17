@@ -1,7 +1,7 @@
 # GNS3
 Laboratorio de redes - INTECSSA
 
-##Laboratorio de Redes utilizando GNS3.
+## Laboratorio de Redes utilizando GNS3.
 
 ---
 
